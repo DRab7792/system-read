@@ -1,0 +1,3 @@
+This program was written by Dan Rabinowitz, and can be treated as an open source program.
+
+This program was designed to measure the speed of copying a file via a filestream at different quantities. To compile the program run 'make all' in the terminal. To uninstall the program type 'make clean' into the terminal. Finally, to run the program type './read' into the terminal.
